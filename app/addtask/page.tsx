@@ -1,6 +1,6 @@
 "use client"
  
-import logoimg from "@/assets/logo.png";
+import logoimg from "@/assets/task.png";
 import FooterSAU from "@/components/FooterSAU";
 import Image from "next/image";
 import Link from "next/link";
