@@ -25,7 +25,7 @@ export default function Page() {
     <>
       <div className="w-3/5 mt-10 p-10 shadow-xl mx-auto border border-gray-400 rounded-xl flex flex-col justify-center items-center">
       {/* แสดงรูปจาก internet */}
-        <Image src={"https://cdn-icons-png.flaticon.com/128/762/762686.png"} alt="logo" width={150} height={150}/>
+        <Image src={"/logo.png"} alt="logo" width={150} height={150}/>
         {/* แสดงชื่อแอป */}
         <h1 className="mt-5 text-2xl font-bold text-gray-700">
           Manage Task App
